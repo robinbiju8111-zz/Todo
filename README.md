@@ -1,1 +1,2 @@
-# Todo APP with React, Redux
+# Todo APP
+Using React, Redux
